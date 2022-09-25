@@ -1,3 +1,3 @@
 # drum-kits 
 
-## pres the keys to play
+## press the keys to play
